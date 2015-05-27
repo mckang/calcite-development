@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-avatica"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-avatica-server"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-example-csv"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-linq4j"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.11/junit-4.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.1.1/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.1.1/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.1.1/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/janino/janino/2.7.6/janino-2.7.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/janino/commons-compiler/2.7.6/commons-compiler-2.7.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/11.0.2/guava-11.0.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/mongo-java-driver-3.0.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/calcite-mongodb"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
